@@ -1,0 +1,15 @@
+Flappy Bird
+
+1: organizar os recursos que iremos utilizar no nosso jogo (imagens, audios, fontes, videos, animacoes e etc)
+
+2: criar as variaveis x e y para poder trabalhar com responsividade desde o inicio do projeto (config.lua e main.lua)
+
+3: Dentro do codigo tambem iremos organizar os nosso diretorios dos recursos guardando em tabelas para podemos trabalhar de forma dinamica e adicionar aleatoriodade ao chamar esses enderecos 
+
+4: Criar as variaveis randomicas que irão buscar os enderecos na tabela e randomizar com o math.random
+
+5: Adicionar os objetos na tela utilizando os endereços randomicos guardados nas variaveis
+
+6: Adicionar a bibliteca de fisica e configurar a sua simulação e adicionar os corpos fisicos e suas configurações
+
+7: Criar as funcionalidades de criar canos, mover o personagem e verificar as colisões
